@@ -1,11 +1,16 @@
 # Welcome to @bellonline
  - 👋 Hi, I’m @bellonline
  - 👀 I’m interested in
-	 - Web Analytic tools - [Google Analytics](https://analytics.google.com/analytics/web/)
-	 - Tracking Tools - [Google Tagmanager](https://tagmanager.google.com/)
-	 - Marketing Automation - n8n.io
-	 - UX & UI Design
-	 - Some programming stuff
+	- Web Analytic tools - [Google Analytics](https://analytics.google.com/analytics/web/)
+	- Tracking Tools - [Google Tagmanager](https://tagmanager.google.com/)
+	- Marketing Automation - n8n.io
+	- UX & UI Design
+	- Some programming stuff
+ - 🎓 My Certificate
+ 	- [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/uKF_-V2xSQCc3nZys94Wxg)
+	- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/OSCdk0wGTw-Un7uagsRT8g)
+	- [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/Gwrq8ihtSfS8Z4RawgSHvg)
+	- [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/6JiYNjQ0S_qOT8YPDIXlVA)
  - 🌱 I’m currently learning ...
  - 💞️ I’m looking to collaborate on ...
  - 📫 How to reach me ...
